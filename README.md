@@ -1,7 +1,8 @@
 # Praktikum04
 
+
+Latihan 1 "Perhitungan dengan kodisi diskon tertentu"
 ```
-Latihan 1 "Program toko dengan kodisi diskon tertentu"
 Alur Algoritma :
 1. Mendeklarasikan awal: (yt) untuk rumus perulangan "pilihan di akhir"
     	{cin>>yt;
@@ -32,11 +33,11 @@ Alur Algoritma :
         else (diskon=total*0);
 	GT=total-diskon;
 ```
-Berikut Pseudo_Code :
+Berikut Pseudo-Code :
 ```
 Pseudo-Code :
 1. kode :....
-2. if kode>4 then goto no 1, else no 7
+2. if kode>4 then goto no 1, else no 9
 3. jumlah : ....
 4. total=jumlah*harga
 5. if (total>=1000000) (diskon=total*0.1)
@@ -44,7 +45,7 @@ Pseudo-Code :
         else (diskon=total*0)
 6. GT=total-diskon;
 7. Pilihan?
-8. if (Y) then goto no 1, else (T) goto no 7
+8. if (Y) then goto no 1, else (T) goto no 9
 9. selesai
 ```
 Berikut Kode Lengkapnya :
